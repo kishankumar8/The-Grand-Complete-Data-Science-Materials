@@ -1,6 +1,6 @@
 # The Grand Complete Data Science Guide With Videos And Materials
 
-## 1. Complete Python Playlist For Data Analytics And Data Science
+## 1.-> Complete Python Playlist For Data Analytics And Data Science
 
 - Python In English: https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVNUL99R4bDlVYsncUNvwUBB
 - Python In Hindi: https://www.youtube.com/watch?v=MJd9d9Mpxg0&list=PLTDARY42LDV4qqiJd1Z1tShm3mp9-rP4v

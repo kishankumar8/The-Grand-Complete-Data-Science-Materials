@@ -17,7 +17,7 @@
 - Complete SQL Detailed Playlist Hindi : **Coming Soon**
 - Complete SQL One Shot : **Coming Soon**
 
-## 4. Git And Github Tutorials
+## 4.=> Git And Github Tutorials
 
 - Git and Github Tutorials In English: https://www.youtube.com/watch?v=GW7B6vwktPA&list=PLZoTAELRMXVOSsBerFZKsdCaA4RYr4RGW
 - Git and Github Tutorials In Hindi: https://www.youtube.com/watch?v=8KtY8ihZ8ME

@@ -11,7 +11,7 @@
 - Stats In English Detailed Playlist: https://www.youtube.com/watch?v=zRUliXuwJCQ&list=PLZoTAELRMXVMhVyr3Ri9IQ-t5QPBtxzJO
 - Stats In Hindi Detailed Playlist: https://www.youtube.com/watch?v=7y3XckjaVOw&list=PLTDARY42LDV6YHSRo669_uDDGmUEmQnDJ
 
-## 3. Complete SQL For Data Analytics And Data Science
+## 3.-> Complete SQL For Data Analytics And Data Science
 
 - Complete SQl Detailed Playlist English: https://www.youtube.com/watch?v=us1XyayQ6fU&list=PLZoTAELRMXVNMRWlVf0bDDSxNEn38u9Cl
 - Complete SQL Detailed Playlist Hindi : **Coming Soon**
